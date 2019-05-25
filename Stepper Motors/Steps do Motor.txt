@@ -1,0 +1,12 @@
+Para calcular os Steps da máquina use os parâmetros:
+
+Fuso com 5mm por passo
+Driver com 1/16 micro-passos "Definido na Ramps 1.4"
+Motor 1.8 com 200 passos por revolução 
+
+Logo 
+
+Micropassos x 1 Revolução do motor /( Passo do Fuso)
+
+
+16*200/(5) = 640 Steps/mm
