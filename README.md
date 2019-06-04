@@ -10,9 +10,9 @@ is possible made prototypes using hybrid manufacture, to save money no lost qual
 using less manufacturing materials. 
 It is possible combining the best qualities of technology additive and subtractive.
 
-I'm so sorry, but, the paper was written in portuguese language, probably i will write a version 
-in English still in 2019.
+I'm so sorry, but, the paper was written in portuguese language, probably i'll write a version 
+in English still in 2019. To help understand the questions of project and the difficulties found.
 
-Thanks for reading and share your Projects to.
+Thanks for reading and share your projects to.
 
 
