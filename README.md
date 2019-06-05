@@ -1,7 +1,7 @@
 # Hybrid_Machine
 Development of a Hybrid Rapid Prototyping System Using 3D Printing Software and Arduino
 
-Attention This documentation is under construction. 
+Attention: This documentation is under construction. 
 
 Here, you can find all documents to replicate the project. 
 
