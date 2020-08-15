@@ -1,6 +1,8 @@
 # Hybrid_Machine
 Development of a Hybrid Rapid Prototyping System Using 3D Printing Software and Arduino
+
 Attention: This documentation is under construction.
+
 Here, you can find all documents to replicate the project.
 This machine was made to attain the title of electrical engineer, and with these documents is possible to make prototypes 
 using hybrid manufacture, to save money no lost quality, and using fewer manufacturing materials. We have made it combining 
